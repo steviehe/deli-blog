@@ -1,6 +1,9 @@
 # deli-blog
 德丽小博（微信小程序端），一款专属程序员的博客系统、包括，后台管理系统，微信小程序端
 
+# 小程序体验码  
+ <img src="http://deli-ai.test.upcdn.net/common/g.jpg" width = "150" height="120" div align=center />  
+ 
 # 小程序端项目截图
  -1、小程序端截图 ——主页   
     <img src="http://deli-ai.test.upcdn.net/common/a.png" width = "280" height="400" div align=center />  
@@ -15,6 +18,8 @@
   -2、主页    
   <img src="http://deli-ai.test.upcdn.net/common/e.png" width = "500" height="230" div align=center />  
   涉及到的技术点请参照主页图片 
+  
+
   
     
     
