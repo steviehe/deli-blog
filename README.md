@@ -13,6 +13,7 @@
 <img src="http://deli-ai.test.upcdn.net/common/c.png" width = "280" height="400" div align=center />  
 
 # 后台管理系统截图  
+    [后台演示地址](http://deli.xiumaikeji.com)  
   -1、登录页    
     <img src="http://deli-ai.test.upcdn.net/common/d.png" width = "500" height="230" div align=center />  
   -2、主页    
