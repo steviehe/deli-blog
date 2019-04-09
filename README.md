@@ -2,7 +2,7 @@
 德丽小博（微信小程序端），一款专属程序员的博客系统、包括，后台管理系统，微信小程序端
 
 # 小程序体验码  
- <img src="http://deli-ai.test.upcdn.net/common/g.jpg" width = "150" height="120" div align=center />  
+ <img src="http://deli-ai.test.upcdn.net/common/g.jpg" width = "200" height="200" div align=center />  
  
 # 小程序端项目截图
  -1、小程序端截图 ——主页   
